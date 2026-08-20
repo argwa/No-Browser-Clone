@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Brandon\\.gradle\\daemon\\8.7\\com.example.nobrowser.app-debug-36:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\Brandon\\.gradle\\daemon\\8.7\\com.example.nobrowser.app-main-38:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Brandon\\.gradle\\daemon\\8.7\\com.example.nobrowser.app-debug-36:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\Brandon\\.gradle\\daemon\\8.7\\com.example.nobrowser.app-main-38:\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Brandon\\.gradle\\daemon\\8.7\\com.example.nobrowser.app-debug-36:\\drawable_ic_refresh.xml.flat",
+        "source": "C:\\Users\\Brandon\\.gradle\\daemon\\8.7\\com.example.nobrowser.app-main-38:\\drawable\\ic_refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\Brandon\\.gradle\\daemon\\8.7\\com.example.nobrowser.app-debug-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Brandon\\.gradle\\daemon\\8.7\\com.example.nobrowser.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Brandon\\.gradle\\daemon\\8.7\\com.example.nobrowser.app-debug-36:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Brandon\\.gradle\\daemon\\8.7\\com.example.nobrowser.app-main-38:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.nobrowser.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "com.example.nobrowser.app-main-38:/layout/activity_main.xml"
+    }
+]

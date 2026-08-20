@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NoBrowser Clone</string>
+    <string name="no_url">No page loaded</string>
+    <string name="back">Go back</string>
+    <string name="refresh">Refresh</string>
+    <string name="press_back_again_to_exit">Press back again to exit</string>
+    <string name="no_link_provided">No link was provided</string>
+    <string name="open_in_app_title">Open in app?</string>
+    <string name="open_in_app_message">This link wants to open in %1$s.</string>
+    <string name="open">Open</string>
+    <string name="stay">Stay here</string>
+    <string name="could_not_open_app">Couldn\'t open that app</string>
+</resources>

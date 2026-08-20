@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_back
+drawable ic_launcher
+drawable ic_refresh
+drawable ic_share
+id btnBack
+id btnRefresh
+id swipeRefresh
+id tvUrl
+id webView
+layout activity_main
+string app_name
+string back
+string could_not_open_app
+string no_link_provided
+string no_url
+string open
+string open_in_app_message
+string open_in_app_title
+string press_back_again_to_exit
+string refresh
+string stay
+style Theme.NoBrowser

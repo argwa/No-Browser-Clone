@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.NoBrowser" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#212121</item>
+        <item name="colorPrimarySurface">#212121</item>
+        <item name="android:statusBarColor">#212121</item>
+    </style>
+</resources>
