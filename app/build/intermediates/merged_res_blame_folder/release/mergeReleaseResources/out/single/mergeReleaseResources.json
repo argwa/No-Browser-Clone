@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.nobrowser.app-release-36:/drawable_ic_launcher.xml.flat",
+        "source": "com.example.nobrowser.app-main-37:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.nobrowser.app-release-36:/layout_activity_main.xml.flat",
+        "source": "com.example.nobrowser.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.nobrowser.app-release-36:/drawable_ic_share.xml.flat",
+        "source": "com.example.nobrowser.app-main-37:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.example.nobrowser.app-release-36:/drawable_ic_refresh.xml.flat",
+        "source": "com.example.nobrowser.app-main-37:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "com.example.nobrowser.app-release-36:/drawable_ic_back.xml.flat",
+        "source": "com.example.nobrowser.app-main-37:/drawable/ic_back.xml"
+    }
+]

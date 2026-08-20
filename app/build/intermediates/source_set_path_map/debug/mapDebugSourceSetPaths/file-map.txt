@@ -30,10 +30,10 @@ com.example.nobrowser.app-lifecycle-viewmodel-savedstate-2.6.2-28 C:\Users\Brand
 com.example.nobrowser.app-lifecycle-runtime-ktx-2.6.2-29 C:\Users\Brandon\.gradle\caches\transforms-4\f510d2a5d0cc90ea008752e03d8b5134\transformed\lifecycle-runtime-ktx-2.6.2\res
 com.example.nobrowser.app-lifecycle-viewmodel-2.6.2-30 C:\Users\Brandon\.gradle\caches\transforms-4\f9f11983108f9866097de6b56150bbd1\transformed\lifecycle-viewmodel-2.6.2\res
 com.example.nobrowser.app-annotation-experimental-1.4.0-31 C:\Users\Brandon\.gradle\caches\transforms-4\fb400e365936c05c64f9c915ef7d232b\transformed\annotation-experimental-1.4.0\res
-com.example.nobrowser.app-pngs-32 C:\Users\Brandon\Desktop\NoBrowserClone\app\build\generated\res\pngs\debug
-com.example.nobrowser.app-resValues-33 C:\Users\Brandon\Desktop\NoBrowserClone\app\build\generated\res\resValues\debug
-com.example.nobrowser.app-packageDebugResources-34 C:\Users\Brandon\Desktop\NoBrowserClone\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.nobrowser.app-packageDebugResources-35 C:\Users\Brandon\Desktop\NoBrowserClone\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.nobrowser.app-debug-36 C:\Users\Brandon\Desktop\NoBrowserClone\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.example.nobrowser.app-debug-37 C:\Users\Brandon\Desktop\NoBrowserClone\app\src\debug\res
-com.example.nobrowser.app-main-38 C:\Users\Brandon\Desktop\NoBrowserClone\app\src\main\res
+com.example.nobrowser.app-pngs-32 C:\Users\Brandon\Documents\GitHub\No-Browser-Clone\app\build\generated\res\pngs\debug
+com.example.nobrowser.app-resValues-33 C:\Users\Brandon\Documents\GitHub\No-Browser-Clone\app\build\generated\res\resValues\debug
+com.example.nobrowser.app-packageDebugResources-34 C:\Users\Brandon\Documents\GitHub\No-Browser-Clone\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.nobrowser.app-packageDebugResources-35 C:\Users\Brandon\Documents\GitHub\No-Browser-Clone\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.nobrowser.app-debug-36 C:\Users\Brandon\Documents\GitHub\No-Browser-Clone\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.nobrowser.app-debug-37 C:\Users\Brandon\Documents\GitHub\No-Browser-Clone\app\src\debug\res
+com.example.nobrowser.app-main-38 C:\Users\Brandon\Documents\GitHub\No-Browser-Clone\app\src\main\res
