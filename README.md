@@ -1,6 +1,6 @@
 # NoBrowser Clone
 
-A minimal Android "browser" for opening links from other apps — inspired by
+A (Made with AI) minimal Android "browser" for opening links from other apps — inspired by
 [rickgram/NoBrowser](https://github.com/rickgram/NoBrowser), with a few extra behaviors.
 
 ## What it does
